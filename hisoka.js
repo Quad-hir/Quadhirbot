@@ -1,7 +1,7 @@
 /**
-   * Create By Dika Ardnt.
-   * Contact Me on wa.me/6288292024190
-   * Follow https://github.com/DikaArdnt
+   * Create By Quadhir.
+   * Contact Me on wa.me/2347082252014
+   * Follow https://github.com/Duxlin
 */
 
 require('./config')
@@ -3103,17 +3103,18 @@ let capt = `⭔ Title: ${judul}
 │⭔ ${prefix}setppbot [image]
 │⭔ ${prefix}setexif
 │⭔ ${prefix}setmenu [option]
+│⭔ ${prefix}kickall
 │
 └───────⭓`
                 let btn = [{
                                 urlButton: {
                                     displayText: 'Source Code',
-                                    url: 'https://github.com/DikaArdnt/Hisoka-Morou'
+                                    url: 'https://github.com/Duxlin/Hisoka-Morou'
                                 }
                             }, {
                                 callButton: {
                                     displayText: 'Number Phone Owner',
-                                    phoneNumber: '+62 882-9202-4190'
+                                    phoneNumber: '+2347082252014'
                                 }
                             }, {
                                 quickReplyButton: {
